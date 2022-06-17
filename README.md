@@ -4,5 +4,5 @@
 
 
 ## Reference
-[UC Berkeley Data Science reading level](https://ischoolonline.berkeley.edu/blog/trump-state-of-the-union-analysis-reading-level-accessible/_
-[Trump Tweets](https://www.kaggle.com/datasets/headsortails/trump-twitter-archive)
+* [UC Berkeley Data Science reading level](https://ischoolonline.berkeley.edu/blog/trump-state-of-the-union-analysis-reading-level-accessible)
+* [Trump Tweets](https://www.kaggle.com/datasets/headsortails/trump-twitter-archive)
